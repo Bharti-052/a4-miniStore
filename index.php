@@ -1,4 +1,5 @@
-<?php require __DIR__ . '/13kx3fn.php' ?>
+<?php
+?>
 <!DOCTYPE html>
 <html>
   <head>
