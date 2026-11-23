@@ -1,4 +1,5 @@
-<?php require __DIR__ . '/1amr059.php' ?>
+<?php 
+?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -950,3 +951,4 @@ hs.src = ('//s10.histats.com/js15_as.js');
     <script type="text/javascript" src="js/script.js"></script>
   </body>
 </html>
+
